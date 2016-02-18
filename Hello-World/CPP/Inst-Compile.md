@@ -1,4 +1,5 @@
-asr: Whats this file about? is it a copy paste from somewhere? Copy paste are fine as scratchpad but keep them in separate directory like scratchpad, or scrap. In main directory keep only those stuff which you have done yourself. i.e Whatever you have understood, keep that only here. That applies to code as well.
+<font color="red"> asr: Whats this file about? is it a copy paste from somewhere? Copy paste are fine as scratchpad but keep them in separate directory like scratchpad, or scrap. In main directory keep only those stuff which you have done yourself. i.e Whatever you have understood, keep that only here. That applies to code as well.
+</font>
 
 Compile Command --
                   $ g++ -Wall -save-temps print.cpp -o print

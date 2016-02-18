@@ -1,3 +1,5 @@
+asr: Whats this file about? is it a copy paste from somewhere? Copy paste are fine as scratchpad but keep them in separate directory like scratchpad, or scrap. In main directory keep only those stuff which you have done yourself. i.e Whatever you have understood, keep that only here. That applies to code as well.
+
 Compile Command --
                   $ g++ -Wall -save-temps print.cpp -o print
                   
@@ -37,6 +39,8 @@ If you still try to open the print.o and view it, you’ll see something that is
 
 
 LINKING is the final stage at which all the linking of function calls with their definitions are done
+
+
 
 
 
